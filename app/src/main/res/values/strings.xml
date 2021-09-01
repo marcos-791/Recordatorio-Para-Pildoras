@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Recordatorio Para Pildoras Kotlin</string>
+
+    <string name="press_again">Presiona nuevamente para salir</string>
+
+    <string name="submit">Agregar un recordatorio</string>
+    <string name="noHay">No hay Recordatorios</string>
+
+    <string name="agrega">Agregar Nueva Píldora</string>
+    <string name="modifica">Modificar Datos</string>
+
+    <string name="modificar">Modificar</string>
+    <string name="borrar">Borrar</string>
+    <string name="saved">Guardado!</string>
+    <string name="guardar">Guardar</string>
+    <string name="cambiar">Cambiar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="desea_borrar">¿Desea Borrar este Recordatorio?</string>
+    <string name="borrado">Borrado!</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+
+    <string name="completa">Completa los campos correspondientes</string>
+    <string name="recordador">Recordatorio:</string>
+    <string name="dontforget">No olvides tomar </string>
+</resources>
