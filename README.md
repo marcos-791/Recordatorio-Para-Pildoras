@@ -10,7 +10,7 @@
   
   <p>You can test the Java version on PlayStore</p>
    
-  <a href="https://www.linkedin.com/in/marcos-emanuel-casta%C3%B1eda-a99297146/">
+  <a href="https://play.google.com/store/apps/details?id=com.castaneda.recordatorioparapildoras&hl=es&gl=US">
      <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
   </a>
   
